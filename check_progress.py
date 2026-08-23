@@ -4,13 +4,9 @@ from datetime import datetime, timedelta, timezone
 
 # 스터디원 정보
 MEMBERS = [
-    {"name": "유채린", "owner": "yuchael", "repo": "baekjoon"},
-    {"name": "채윤지", "owner": "Hayden-yoonji", "repo": "coding_test"},
-    {"name": "조성은", "owner": "Seongeun-Jo", "repo": "Baekjoon_Python"},
-    {"name": "전진우", "owner": "jjwoori123-lang", "repo": "BaekjoonHub"},
-    {"name": "민채영", "owner": "chaeng16", "repo": "algorithm"},
-    {"name": "김태완", "owner": "codml", "repo": "CodingTestForPythonAndSQL"},
-    {"name": "이남길", "owner": "SouthGiri", "repo": "Algorithm_Practice"}
+    {"name": "김태완", "owner": "codml", "repo": "CodingTest"},
+    {"name": "이주형", "owner": "LeeJuHyeong0492", "repo": "prtgramers"},
+    {"name": "서지혜", "owner": "Jihye0623", "repo": "Baekjoon_test"}
 ]
 
 def get_commits_count(owner, repo, since):
