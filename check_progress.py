@@ -6,7 +6,8 @@ from datetime import datetime, timedelta, timezone
 MEMBERS = [
     {"name": "김태완", "owner": "codml", "repo": "CodingTest"},
     {"name": "이주형", "owner": "LeeJuHyeong0492", "repo": "prtgramers"},
-    {"name": "서지혜", "owner": "Jihye0623", "repo": "Baekjoon_test"}
+    {"name": "서지혜", "owner": "Jihye0623", "repo": "Baekjoon_test"},
+    {"name": "조성은", "owner": "Seongeun-Jo", "repo": "Baekjoon_Python"}
 ]
 
 def get_commits_count(owner, repo, since):
