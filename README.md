@@ -10,6 +10,7 @@
 | [김태완](https://github.com/codml/CodingTest) | 0 | ❌ 미달 (0/5) |
 | [이주형](https://github.com/LeeJuHyeong0492/prtgramers) | 0 | ❌ 미달 (0/5) |
 | [서지혜](https://github.com/Jihye0623/Baekjoon_test) | 0 | ❌ 미달 (0/5) |
+| [조성은](https://github.com/Seongeun-Jo/Baekjoon_Python) | 0 | ❌ 미달 (0/5) |
 
 ---
-최근 업데이트: 2026-08-30 10:30:09 (KST)
+최근 업데이트: 2026-08-30 11:03:55 (KST)
